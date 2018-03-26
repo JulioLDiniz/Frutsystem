@@ -1,0 +1,21 @@
+.botao-geral {
+	outline: 0;
+	background: none;
+	border:none;
+}
+.txt-sublinhado{
+	text-decoration: underline;
+}
+footer {
+	background: #DADFE1;
+	height: 8em;
+	bottom: 0;
+	margin-bottom: 0;
+	position: relative;
+}
+footer #rodape p{
+	padding: 40px;
+}
+#usuario-logado {
+	padding-top: 17px;
+}
